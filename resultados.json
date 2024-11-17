@@ -1,0 +1,23 @@
+{
+    "_id": 1001,
+    "encuentro_id": 101,
+    "detalles": [
+      {
+        "jugador": "jugador_01",
+        "equipo": "equipo_01",
+        "goles": 2,
+        "asistencias": 1,
+        "tarjetas_amarillas": 0,
+        "tarjetas_rojas": 0
+      },
+      {
+        "jugador": "jugador_02",
+        "equipo": "equipo_02",
+        "goles": 1,
+        "asistencias": 0,
+        "tarjetas_amarillas": 1,
+        "tarjetas_rojas": 0
+      }
+    ]
+  }
+  

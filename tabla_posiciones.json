@@ -1,0 +1,13 @@
+{
+    "_id": 1,
+    "equipo": "equipo_01",
+    "partidos_jugados": 10,
+    "partidos_ganados": 6,
+    "partidos_empatados": 2,
+    "partidos_perdidos": 2,
+    "goles_a_favor": 25,
+    "goles_en_contra": 15,
+    "diferencia_goles": 10,
+    "puntos": 20
+  }
+  

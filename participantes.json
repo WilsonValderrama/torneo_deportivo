@@ -1,0 +1,12 @@
+{
+    "id": "01",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "tipo": "deportista",
+    "equipo": "edb1",
+    "posicion": "delantero",
+    "edad": 25,
+    "nacionalidad": "Colombiano",
+    "experiencia": 3
+  }
+  

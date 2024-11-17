@@ -1,0 +1,20 @@
+{
+    "_id": 1,
+    "nombre": "Los Guerreros",
+    "ciudad": "Bogotá",
+    "entrenador": "entrenador_01",
+    "jugadores": [
+      "jugador_01",
+      "jugador_02",
+      "jugador_03"
+    ],
+    "partidos_jugados": 10,
+    "partidos_ganados": 6,
+    "partidos_empatados": 2,
+    "partidos_perdidos": 2,
+    "puntos": 20,
+    "goles_a_favor": 25,
+    "goles_en_contra": 15,
+    "diferencia_goles": 10
+  }
+  

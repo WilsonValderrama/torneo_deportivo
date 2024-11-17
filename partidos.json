@@ -1,0 +1,12 @@
+{
+    "_id": 101,
+    "equipo_local": "equipo_01",
+    "equipo_visitante": "equipo_02",
+    "fecha": "2024-11-20T15:00:00Z",
+    "ubicacion": "Estadio Nacional",
+    "arbitro": "arbitro_01",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "resultado": "Victoria local"
+  }
+  
